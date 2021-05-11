@@ -1,0 +1,16 @@
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\bin\Debug\net5.0\AccessModifiers.exe
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\bin\Debug\net5.0\AccessModifiers.deps.json
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\bin\Debug\net5.0\AccessModifiers.runtimeconfig.json
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\bin\Debug\net5.0\AccessModifiers.runtimeconfig.dev.json
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\bin\Debug\net5.0\AccessModifiers.dll
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\bin\Debug\net5.0\ref\AccessModifiers.dll
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\bin\Debug\net5.0\AccessModifiers.pdb
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\obj\Debug\net5.0\AccessModifiers.csprojAssemblyReference.cache
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\obj\Debug\net5.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\obj\Debug\net5.0\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\obj\Debug\net5.0\AccessModifiers.AssemblyInfo.cs
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\obj\Debug\net5.0\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\obj\Debug\net5.0\AccessModifiers.dll
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\obj\Debug\net5.0\ref\AccessModifiers.dll
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\obj\Debug\net5.0\AccessModifiers.pdb
+C:\Users\Lntinfotech\Documents\DotNet\AccessModifiers\obj\Debug\net5.0\AccessModifiers.genruntimeconfig.cache
